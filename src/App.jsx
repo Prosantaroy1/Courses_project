@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Header/>
-      <div className='flex justify-between items-center gap-11 px-12 mt-7'>
+      <div className='flex  md:flex-nowrap sm:flex-wrap-reverse  gap-11 px-12 mt-7'>
           <Courses_sec></Courses_sec>
           <Courses_add></Courses_add>
       </div>

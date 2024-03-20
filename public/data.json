@@ -1,7 +1,8 @@
 [
-    {
+   
+  {
       "id": "1",
-      "cover_img": "./Asset/Rectangle 2-5.png",
+      "cover_img": "./Asset/Rectangle 3.png",
       "title": "Introduction to C# Programming",
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout..",
       "price_number": 12.99,
@@ -10,14 +11,14 @@
     {
       "id": "2",
       "cover_img": "./Asset/Rectangle 2-5.png",
-      "title": "Introduction to Mechine Programming",
+      "title": "Introduction to Ruby Programming",
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout..",
       "price_number": 10.99,
       "credit_time": 2
     },
     {
       "id": "3",
-      "cover_img": "./Asset/Rectangle 2-3.png",
+      "cover_img": "./Asset/Rectangle 2.png",
       "title": "Introduction to Python Programming",
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "price_number": 9.99,
